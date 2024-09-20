@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.panel {
+    width: 20px;
+    margin: 3px;
+    height: 166.11px;
+    border-radius: 10px;
+}
+.active {
+    width: 250px;
+    margin: 3px;
+    height: 166.11px;
+    border-radius: 10px;
+}
